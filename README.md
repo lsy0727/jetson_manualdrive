@@ -20,6 +20,8 @@ dst1 = gstreamer를 이용해 네트워크로 전송하는 명령어 저장(203.
 
 VideoWriter 생성자에 gstreamer 명령어 전달
 
+https://github.com/lsy0727/jetson_manualdrive/blob/26285cca4589451b0f37bc9691614383c325d9ed/main.cpp#L43C5-L43C105
+
 
 
 # 실행결과
