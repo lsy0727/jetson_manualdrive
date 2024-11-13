@@ -2,7 +2,7 @@
 
 # 설명
 
-https://github.com/lsy0727/jetson_manualdrive/blob/20cffaf82f2f3381af0baf75fda3ffc6b98c0041/main.cpp#L17-L22
+https://github.com/lsy0727/jetson_manualdrive/blob/dfe323ca7b526d774ec02bb711856946b7cfb226/main.cpp#L17-L29
 
 jetson CSI카메라는 리눅스 드라이버에서 지원하지 않기 때문에 gstreamer명령어를 이용해 영상을 읽음.
 
@@ -19,6 +19,8 @@ dst1 = gstreamer를 이용해 네트워크로 전송하는 명령어 저장(203.
 -> 호스트의 주소와 포트번호를 기입
 
 VideoWriter 생성자에 gstreamer 명령어 전달
+
+
 
 # 실행결과
 
