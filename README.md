@@ -34,6 +34,10 @@ Size : 해상도
 
 true : 컬러로 저장 (false이면 흑백으로 저장)
 
+https://github.com/lsy0727/jetson_manualdrive/blob/8031e931f6d5d93e7ca159282d97dd4a3a3c544b/main.cpp#L61
+
+영상 저장
+
 https://github.com/lsy0727/jetson_manualdrive/blob/757e887b08abb12bcebe801e86ed4ea1d529261f/main.cpp#L64-L77
 
 키보드로부터 키를 입력받으면 해당 동작을 수행함
