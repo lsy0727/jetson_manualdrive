@@ -46,6 +46,10 @@ https://github.com/lsy0727/jetson_manualdrive/blob/b791b68207945361e982473cfde11
 
 급가속, 급감속을 방지하기위해 속도를 5단위로 제어함
 
+https://github.com/lsy0727/jetson_manualdrive/blob/ee19055aafda2f547f4c75e561b3e2e32201d914/main.cpp#L87
+
+ctrl+c입력시 프로그램 종료함
+
 # 실행결과
 
 https://www.youtube.com/watch?v=qNhwtKrqa1w
