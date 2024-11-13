@@ -38,6 +38,10 @@ https://github.com/lsy0727/jetson_manualdrive/blob/757e887b08abb12bcebe801e86ed4
 
 키보드로부터 키를 입력받으면 해당 동작을 수행함
 
+https://github.com/lsy0727/jetson_manualdrive/blob/b791b68207945361e982473cfde1110bd4a185fb/main.cpp#L79-L84
+
+급가속, 급감속을 방지하기위해 속도를 5단위로 제어함
+
 # 실행결과
 
 https://www.youtube.com/watch?v=qNhwtKrqa1w
