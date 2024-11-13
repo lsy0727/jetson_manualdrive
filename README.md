@@ -50,6 +50,10 @@ https://github.com/lsy0727/jetson_manualdrive/blob/ee19055aafda2f547f4c75e561b3e
 
 ctrl+c입력시 프로그램 종료함
 
+https://github.com/lsy0727/jetson_manualdrive/blob/79a2fef1cd0bb8ce4019ebcff390818620e14cea/main.cpp#L93
+
+프로그램 종료시에 장치를 닫음
+
 # 실행결과
 
 https://www.youtube.com/watch?v=qNhwtKrqa1w
