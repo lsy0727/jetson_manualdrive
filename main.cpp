@@ -83,8 +83,6 @@ int main(void)
         else if (goal2<vel2) vel2-=5;
         else vel2=goal2;
 
-        
-
         if (!mx.setVelocity(vel1,vel2)){ cout<< "setVelocityerror" << endl; return-1;}
         if (ctrl_c_pressed) break; 
         usleep(20*1000); 
