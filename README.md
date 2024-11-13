@@ -20,7 +20,19 @@ dst1 = gstreamer를 이용해 네트워크로 전송하는 명령어 저장(203.
 
 VideoWriter 생성자에 gstreamer 명령어 전달
 
-https://github.com/lsy0727/jetson_manualdrive/blob/26285cca4589451b0f37bc9691614383c325d9ed/main.cpp#L43C5-L43C105
+https://github.com/lsy0727/jetson_manualdrive/blob/6e715355ae32116cb5c08b2e3f7bc88b6011f675/main.cpp#L43
+
+저장할 비디오파일 설정
+
+파일이름 : manualdrive.mp4
+
+VideoWriter::fourcc('X','2','6','4') : 비디오코덱-H.264, 비디오 압축 방식중 하나로 .mp4 파일 형식에서 자주 사용됨.
+
+30 : 프레임
+
+Size : 해상도
+
+true : 컬러로 저장 (false이면 흑백으로 저장)
 
 
 
